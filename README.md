@@ -35,11 +35,15 @@
 ![Скриншот](assets/04.png)
 
 1. Установите [Docker Desktop](https://www.docker.com/products/docker-desktop)
-2. Клонируйте репозиторий
-```bash
-[https://github.com/hexxeh777-svg/e-commerce-architecture-demo.git](https://github.com/hexxeh777-svg/e-commerce-architecture-demo.git)
+2. Клонируйте репозиторий:
 
-💡 Если вы видите ошибку про @rollup/rollup-linux-x64-musl — это не ваша вина. Это вина npm. Я тоже плакал. Держитесь.
+```bash
+git clone https://github.com/hexxeh777-svg/e-commerce-architecture-demo.git
+
+---
+
+### 💡 Дополнительный совет:
+Если вы видите ошибку про @rollup/rollup-linux-x64-musl — это не ваша вина. Это вина npm. Я тоже плакал. Держитесь.
 
 3. В корневой папке выполните:
    ```bash
