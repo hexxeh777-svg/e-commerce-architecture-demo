@@ -37,7 +37,7 @@
 1. Установите [Docker Desktop](https://www.docker.com/products/docker-desktop)
 2. Клонируйте репозиторий
 ```
-https://github.com/hexxeh777-svg/e-commerce-architecture-demo.git```
+https://github.com/hexxeh777-svg/e-commerce-architecture-demo.git
 
 💡 Если вы видите ошибку про @rollup/rollup-linux-x64-musl — это не ваша вина. Это вина npm. Я тоже плакал. Держитесь.
 
